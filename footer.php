@@ -12,8 +12,7 @@
 	</div><!-- #main .wrapper -->
 	<footer id="colophon" role="contentinfo">
 		<div class="site-info">
-			<?php do_action( 'twentytwelve_credits' ); ?>
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentytwelve' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'twentytwelve' ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentytwelve' ), 'WordPress' ); ?></a>
+			Powered by <a title="Semantic Personal Publishing Platform" target="_blank" href="http://wordpress.org/">WordPress</a> | Hosted by <a target="_blank" href="http://www.aliyun.com/">aliyun.com</a> | &nbsp;&nbsp;个人博客、记录一些想法、学习心得...  <br>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->

@@ -23,7 +23,7 @@
 <meta name="viewport" content="width=device-width" />
 
 
-<!-- 操你大爷的电信运营商，整天用 iframe 的方式给用户弹广告 参考:http://en.wikipedia.org/wiki/Framekiller -->
+<!-- 防止电信运营商，用 iframe 的方式给用户弹广告 参考:http://en.wikipedia.org/wiki/Framekiller -->
 <style> html{display : none ; } </style>
 <script>
    if( self == top ) {

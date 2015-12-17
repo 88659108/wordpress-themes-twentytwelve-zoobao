@@ -1,5 +1,5 @@
 /*
-Theme Name: Twenty Twelve for dbanotes.net
+Theme Name: Twenty Twelve for zoobao.com
 Theme URI: http://wordpress.org/extend/themes/twentytwelve
 Author: the WordPress team
 Author URI: http://wordpress.org/
@@ -69,6 +69,16 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     padding-bottom: 24px;
     width: 267px;
 }
+
+
+#qrcode a {
+    background: rgba(0, 0, 0, 0) url("images/wechat.png") no-repeat scroll 0 0;
+    display: block;
+    height: 180px;
+    margin-top: 10px;
+    width: 180px;
+}
+
 
 body {
 	line-height: 1.2;
